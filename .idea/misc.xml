@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/SportsEventsApp/app/src/main/res/drawable/cell_background_shape.xml" value="0.3375" />
+        <entry key="..\:/Android/SportsEventsApp/app/src/main/res/drawable/time_background_shape.xml" value="0.3375" />
         <entry key="..\:/Android/SportsEventsApp/app/src/main/res/layout/activity_main.xml" value="0.3110316649642492" />
+        <entry key="..\:/Android/SportsEventsApp/app/src/main/res/layout/event_row.xml" value="0.3171875" />
+        <entry key="..\:/Android/SportsEventsApp/app/src/main/res/layout/sports_row.xml" value="0.3171875" />
       </map>
     </option>
   </component>
