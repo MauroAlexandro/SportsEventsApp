@@ -5,5 +5,6 @@ data class E(
     val i: String,
     val sh: String,
     val si: String,
-    val tt: Int
+    val tt: Int,
+    var favorite: Boolean = false
 )

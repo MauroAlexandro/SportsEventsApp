@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Sports List-->
+    <dimen name="sport_title_size">20sp</dimen>
+
+    <!--Events List-->
+    <dimen name="event_time_size">18sp</dimen>
+    <dimen name="event_player_size">18sp</dimen>
+</resources>
